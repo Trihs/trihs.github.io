@@ -1,0 +1,48 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>first</title>
+	</head>
+	<body>
+		<!--H系列标签，加粗加大字体同时起强调作用-->
+		<h1>Hello World</h1>
+		<h2>Hello World</h2>
+		<h3>Hello World</h3>
+		<h4>Hello World</h4>
+		<h5>Hello World</h5>
+		<h6>Hello World</h6>
+		<p>Hello  World</p>
+
+		<b>使用粗体显示文本</b><br/>
+		<strong>使用粗体显示文本，同时进行强调</strong><br/>
+
+		<i>使文本显示为斜体</i><br/>
+		<em>使文本显示为斜体，同时对文本进行强调</em><br/>
+
+		<del>在文本上显示中划线，表示对文本的删除</del><br/>
+
+		<q>在文本两端加上双引号，表示引用</q><br/>
+
+		<small>使文本显示为小一号的字体</small><br/>
+
+		<p>使文本显示为正常大小的字体</p><br/>
+
+		log<sub>n</sub>10<br/>
+		<!--sub为下标，sup为上标-->
+		X<sup>10</sup><br/>
+
+		<u>为该段文字添加下划线</u><br/>
+
+		<span>与CSS联合使用产生效果</span>
+
+		<!--exercise-->
+		<h1>HTML的构造</h1>
+		<b>HTML构造分为HEAD、TITLE、BODY，其中TITLE包含在HEAD中，BODY为文本的主体。</b>
+		<h2>各种文本标签的使用</h2>
+		<em>使文本显示为斜体，同时对文本进行强调</em>
+		<del>在文本上显示中划线，表示对文本的删除</del>
+		<q>在文本两端加上双引号，表示引用</q>
+		<small>使文本显示为小一号的字体</small>
+		<p>使文本显示为正常大小的字体</p>P为段落，会使该段另起一行
+	</body>
+</html>
